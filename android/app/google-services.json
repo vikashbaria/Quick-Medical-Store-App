@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "137933886873",
+    "project_id": "jawanpakistan-project",
+    "storage_bucket": "jawanpakistan-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137933886873:android:e94da7d9e428500fb86f08",
+        "android_client_info": {
+          "package_name": "com.example.medical_store_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137933886873-r7bk7g0ls985091qacvc2pr66v9hejim.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medical_store_mobile_app",
+            "certificate_hash": "07501902a890d17c452166b309835183fbb19216"
+          }
+        },
+        {
+          "client_id": "137933886873-kn0oitrcdhi9mlpec93lsunc0l21cgob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIRJ0qlPeQhd277-5ed2IM5iZBTd7kmvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137933886873-kn0oitrcdhi9mlpec93lsunc0l21cgob.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "137933886873-9dds12oc43p5i58h2dojlqi368sm7dk4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medicalStoreMobileApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
