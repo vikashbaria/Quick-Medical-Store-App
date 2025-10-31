@@ -2,6 +2,8 @@
 
 This is a **Flutter** project implementing **Firebase** authentication and product management using the **MVVM** architecture. The app provides a clean separation of UI, business logic, and data handling, ensuring maintainable and scalable code.
 
+> ⚡ Note: All UI screens are designed in **Figma** and converted to Flutter. You can also watch the demo video [here](https://github.com/vikashbaria/Quick-Medical-Store-App/raw/refs/heads/main/App%20Features.mp4).
+
 ---
 
 ## 📱 Features
@@ -31,7 +33,7 @@ This separation ensures clean, maintainable, and testable code.
 
 ## ⚡ Screenshots
 
-<!-- Replace the links with your own screenshot URLs -->
+<!-- Replace these placeholder links with your actual uploaded images -->
 | Splash Screen | Login Screen |
 |---------------|--------------|
 | ![Splash](https://via.placeholder.com/200) | ![Login](https://via.placeholder.com/200) |
@@ -50,18 +52,24 @@ This separation ensures clean, maintainable, and testable code.
 
 ---
 
+## 🎬 Demo Video
+
+Watch the app in action: [App Features Video](https://github.com/vikashbaria/Quick-Medical-Store-App/raw/refs/heads/main/App%20Features.mp4)
+
+---
+
 ## 🔧 Getting Started
 
 ### Prerequisites
 
 - Flutter SDK (>=3.0.0)
 - Firebase account
-- Android Studio / VS Code
+- Android Studio or VS Code
 
 ### Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/yourusername/Quick-Medical-Store-App.git
+cd Quick-Medical-Store-App
