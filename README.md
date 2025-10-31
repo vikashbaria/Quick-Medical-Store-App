@@ -33,22 +33,21 @@ This separation ensures clean, maintainable, and testable code.
 
 ## ⚡ Screenshots
 
-<!-- Replace these placeholder links with your actual uploaded images -->
-| Splash Screen | Login Screen |
-|---------------|--------------|
-| ![Splash](https://via.placeholder.com/200) | ![Login](https://via.placeholder.com/200) |
+| Splash Screen 1 | Splash Screen 2 | Splash Screen 3 |
+|----------------|----------------|----------------|
+| ![Splash1](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/Splash1.png) | ![Splash2](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/Splash2.png) | ![Splash3](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/Splash3.png) |
 
-| Sign Up Screen | Home / Show Products |
-|----------------|--------------------|
-| ![SignUp](https://via.placeholder.com/200) | ![Products](https://via.placeholder.com/200) |
+| Sign In Screen | Home Screen | Top 4 Products on Home |
+|----------------|------------|------------------------|
+| ![SignIn](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/Signin.png) | ![Home](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/home.png) | ![TopProducts](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/top%204%20products%20on%20home%20page.png) |
 
-| Add Product | Profile |
-|-------------|---------|
-| ![AddProduct](https://via.placeholder.com/200) | ![Profile](https://via.placeholder.com/200) |
+| Product List Top | Product List Bottom | Add Product |
+|-----------------|-------------------|------------|
+| ![ProductTop](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/product%20top.png) | ![ProductBottom](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/product%20bottom.png) | ![AddToCart](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/Add%20to%20cart.png) |
 
-| Add to Cart |
-|-------------|
-| ![Cart](https://via.placeholder.com/200) |
+| Profile Screen |
+|----------------|
+| ![Profile](https://raw.githubusercontent.com/vikashbaria/Quick-Medical-Store-App/refs/heads/main/App%20Images/profile.png) |
 
 ---
 
